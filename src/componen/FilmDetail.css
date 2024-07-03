@@ -1,0 +1,27 @@
+.film-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .film-img-detail {
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+    border-radius: 4px;
+  }
+  
+  .trailer {
+    margin-top: 20px;
+  }
+  
+  .back-home {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+  }
+  

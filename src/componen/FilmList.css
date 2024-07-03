@@ -1,0 +1,41 @@
+.film-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .filters {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .films {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .add-film-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .films {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .add-film-form input {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .add-film-form button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
